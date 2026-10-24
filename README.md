@@ -192,5 +192,4 @@ detected candidate and confidence score, and the expected stratagem name.
 
 ## License
 
-This project is open source. Add the repository's license file before public
-distribution so that contribution and reuse terms are explicit.
+This project is open source and available under the [MIT License](LICENSE).
