@@ -1,0 +1,19 @@
+[project]
+name = "helldivers2-stratagems"
+version = "0.6.2"
+description = "Helldivers 2 loadout recognition for Stream Deck Mobile"
+requires-python = ">=3.11"
+dependencies = [
+    "PyQt6>=6.7,<7",
+    "mss>=9,<11",
+    "numpy>=2,<3",
+    "opencv-python>=4.10,<5",
+    "websocket-client>=1.8,<2",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

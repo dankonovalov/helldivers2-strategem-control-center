@@ -1,0 +1,5 @@
+PyQt6>=6.7,<7
+mss>=9,<11
+numpy>=2,<3
+opencv-python>=4.10,<5
+websocket-client>=1.8,<2

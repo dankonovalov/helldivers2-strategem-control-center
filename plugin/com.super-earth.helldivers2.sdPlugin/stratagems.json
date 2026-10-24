@@ -1,0 +1,97 @@
+{
+  "description": "Словник відповідностей (Mapping) для стратегем Helldivers 2",
+  "stratagems": {
+    "orbital_laser": {
+      "display_name": "Orbital Laser",
+      "icon_file": "orbital_laser.png"
+    },
+    "eagle_500kg_bomb": {
+      "display_name": "Eagle 500KG Bomb",
+      "icon_file": "eagle_500kg_bomb.png"
+    },
+    "recoilless_rifle": {
+      "display_name": "Recoilless Rifle",
+      "icon_file": "recoilless_rifle.png"
+    },
+    "railgun": {
+      "display_name": "Railgun",
+      "icon_file": "railgun.png"
+    },
+    "shield_generator_pack": {
+      "display_name": "Shield Generator Pack",
+      "icon_file": "shield_generator_pack.png"
+    },
+    "autocannon": {
+      "display_name": "Autocannon",
+      "icon_file": "autocannon.png"
+    },
+    "orbital_railcannon_strike": {
+      "display_name": "Orbital Railcannon Strike",
+      "icon_file": "orbital_railcannon_strike.png"
+    },
+    "eagle_airstrike": {
+      "display_name": "Eagle Airstrike",
+      "icon_file": "eagle_airstrike.png"
+    },
+    "orbital_380mm_he_barrage": {
+      "display_name": "Orbital 380MM HE Barrage",
+      "icon_file": "orbital_380mm_he_barrage.png"
+    },
+    "supply_pack": {
+      "display_name": "Supply Pack",
+      "icon_file": "supply_pack.png"
+    },
+    "flamethrower": {
+      "display_name": "Flamethrower",
+      "icon_file": "flamethrower.png"
+    },
+    "quasar_cannon": {
+      "display_name": "Quasar Cannon",
+      "icon_file": "quasar_cannon.png"
+    },
+    "spear": {
+      "display_name": "Spear",
+      "icon_file": "spear.png"
+    },
+    "patriot_exosuit": {
+      "display_name": "Patriot Exosuit",
+      "icon_file": "patriot_exosuit.png"
+    },
+    "emancipator_exosuit": {
+      "display_name": "Emancipator Exosuit",
+      "icon_file": "emancipator_exosuit.png"
+    },
+    "mortar_sentry": {
+      "display_name": "Mortar Sentry",
+      "icon_file": "mortar_sentry.png"
+    },
+    "flame_sentry": {
+      "display_name": "Flame Sentry",
+      "icon_file": "flame_sentry.png"
+    },
+    "autocannon_sentry": {
+      "display_name": "Autocannon Sentry",
+      "icon_file": "autocannon_sentry.png"
+    },
+    "gatling_sentry": {
+      "display_name": "Gatling Sentry",
+      "icon_file": "gatling_sentry.png"
+    },
+    "tesla_tower": {
+      "display_name": "Tesla Tower",
+      "icon_file": "tesla_tower.png"
+    },
+    "resupply": {
+      "display_name": "Resupply",
+      "icon_file": "resupply.png"
+    },
+    "reinforce": {
+      "display_name": "Reinforce",
+      "icon_file": "reinforce.png"
+    },
+    "hellbomb": {
+      "display_name": "Hellbomb",
+      "icon_file": "hellbomb.png"
+    }
+  }
+}

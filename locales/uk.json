@@ -1,0 +1,76 @@
+{
+  "window": {
+    "title": "Helldivers 2 Stream Deck Control Center",
+    "brand": "HELLDIVERS 2  //  STRATAGEM CONTROL CENTER",
+    "language_tooltip": "Switch to English",
+    "optical_recognition": "ЛОКАЛЬНЕ ОПТИЧНЕ РОЗПІЗНАВАННЯ"
+  },
+  "tabs": {
+    "control": "КЕРУВАННЯ",
+    "stream_deck": "STREAM DECK"
+  },
+  "calibration": {
+    "title": "ОБЛАСТЬ ЧОТИРЬОХ СТРАТАГЕМ",
+    "buffer_ready": "ОПТИЧНИЙ БУФЕР: ГОТОВО",
+    "instruction_title": "ІНСТРУКЦІЯ КАЛІБРУВАННЯ:",
+    "instruction": "Виділіть один прямокутник навколо чотирьох іконок на екрані гри.",
+    "select_button": "[ ]  ВИБРАТИ ОБЛАСТЬ 4 ІКОНОК",
+    "overlay": "Обведіть одним прямокутником усі 4 іконки стратагем"
+  },
+  "slots": {
+    "section_title": "СТАН КНОПОК STREAM DECK",
+    "number": "СЛОТ {number}",
+    "state_recognized": "СТАН: РОЗПІЗНАНО",
+    "state_candidate": "СТАН: НИЗЬКИЙ ЗБІГ",
+    "state_manual": "СТАН: РУЧНИЙ ВИБІР",
+    "state_idle": "ОЧІКУВАННЯ СИГНАЛУ",
+    "badge_match": "ЗБІГ",
+    "badge_candidate": "КАНДИДАТ",
+    "badge_manual": "РУЧНИЙ",
+    "badge_idle": "ОЧІКУВАННЯ",
+    "auto": "Автоматичний вибір",
+    "no_candidate": "Немає кандидата",
+    "score": "ЗБІГ:"
+  },
+  "parser": {
+    "badge_online": "ПАРСЕР: ОНЛАЙН",
+    "badge_offline": "ПАРСЕР: ОФЛАЙН",
+    "active": "ПАРСЕР АКТИВНИЙ",
+    "stopped": "ПАРСЕР ЗУПИНЕНО",
+    "active_detail": "ОПТИЧНЕ РОЗПІЗНАВАННЯ ПРАЦЮЄ",
+    "idle_detail": "ОЧІКУВАННЯ КОМАНДИ ОПЕРАТОРА",
+    "start": ">  ЗАПУСТИТИ ПАРСЕР",
+    "stop": "[■]  ЗУПИНИТИ ПАРСЕР",
+    "region_missing": "Область loadout не налаштована",
+    "started": "Парсер запущено",
+    "failed": "Помилка парсера",
+    "stopped_message": "Парсер зупинено"
+  },
+  "settings": {
+    "title": "КОНФІГУРАЦІЯ STREAM DECK",
+    "bridge_ready": "МІСТ ПЛАГІНА: ГОТОВО",
+    "transfer": "ПЕРЕДАЧА НА STREAM DECK",
+    "plugin_handles": "Виконує встановлений плагін Elgato",
+    "shared_config": "Спільний конфіг: {path}",
+    "localappdata_unavailable": "LOCALAPPDATA недоступний",
+    "threshold": "ПОРІГ СХОЖОСТІ, %",
+    "monitor": "ІНДЕКС МОНІТОРА",
+    "save": "ЗБЕРЕГТИ НАЛАШТУВАННЯ",
+    "saved": "НАЛАШТУВАННЯ ЗБЕРЕЖЕНО"
+  },
+  "status": {
+    "region_saved": "ОБЛАСТЬ ЗБЕРЕЖЕНО",
+    "calibration_updated": "КАЛІБРУВАННЯ ОНОВЛЕНО"
+  },
+  "dialogs": {
+    "error_title": "Помилка",
+    "save_failed": "Не вдалося зберегти конфігурацію: {error}",
+    "region_missing_title": "Область не вибрана",
+    "region_missing_text": "Спочатку виберіть область із чотирма іконками стратагем.",
+    "success_title": "Успіх",
+    "settings_saved": "Налаштування успішно збережено!"
+  },
+  "format": {
+    "threshold_summary": "ПОРІГ: {value:.3f} МІН"
+  }
+}

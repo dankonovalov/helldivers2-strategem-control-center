@@ -1,0 +1,30 @@
+{
+    "streamdeck": {
+        "use_mock": true
+    },
+    "ui": {
+        "language": "uk"
+    },
+    "matching": {
+        "threshold": 0.65,
+        "stratagem_library_dir": "stratagem_library",
+        "stable_frames": 4,
+        "min_confident_slots": 2
+    },
+    "capture": {
+        "monitor_index": 1,
+        "loadout_zone": null,
+        "save_debug_captures": false
+    },
+    "loop_delay_seconds": 0.5,
+    "runtime": {
+        "enabled": false
+    },
+    "input": {
+        "key_press_seconds": 0.055,
+        "key_gap_seconds": 0.045,
+        "repeated_key_gap_seconds": 0.08,
+        "ctrl_settle_seconds": 0.08,
+        "cooldown_seconds": 0.75
+    }
+}

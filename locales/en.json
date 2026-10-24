@@ -1,0 +1,76 @@
+{
+  "window": {
+    "title": "Helldivers 2 Stream Deck Control Center",
+    "brand": "HELLDIVERS 2  //  STRATAGEM CONTROL CENTER",
+    "language_tooltip": "Перемкнути на українську",
+    "optical_recognition": "LOCAL OPTICAL RECOGNITION"
+  },
+  "tabs": {
+    "control": "CONTROL",
+    "stream_deck": "STREAM DECK"
+  },
+  "calibration": {
+    "title": "FOUR-STRATAGEM CAPTURE AREA",
+    "buffer_ready": "OPTICAL BUFFER: READY",
+    "instruction_title": "CALIBRATION INSTRUCTIONS:",
+    "instruction": "Draw one rectangle around all four loadout icons on the game screen.",
+    "select_button": "[ ]  SELECT THE 4-ICON AREA",
+    "overlay": "Draw one rectangle around all four stratagem icons"
+  },
+  "slots": {
+    "section_title": "STREAM DECK BUTTON STATUS",
+    "number": "SLOT {number}",
+    "state_recognized": "STATUS: RECOGNIZED",
+    "state_candidate": "STATUS: LOW MATCH",
+    "state_manual": "STATUS: MANUAL SELECTION",
+    "state_idle": "WAITING FOR SIGNAL",
+    "badge_match": "MATCH",
+    "badge_candidate": "CANDIDATE",
+    "badge_manual": "MANUAL",
+    "badge_idle": "STANDBY",
+    "auto": "Automatic selection",
+    "no_candidate": "No candidate",
+    "score": "MATCH:"
+  },
+  "parser": {
+    "badge_online": "PARSER: ONLINE",
+    "badge_offline": "PARSER: OFFLINE",
+    "active": "PARSER ACTIVE",
+    "stopped": "PARSER STOPPED",
+    "active_detail": "OPTICAL RECOGNITION IS RUNNING",
+    "idle_detail": "WAITING FOR OPERATOR COMMAND",
+    "start": ">  START PARSER",
+    "stop": "[■]  STOP PARSER",
+    "region_missing": "Loadout region is not configured",
+    "started": "Parser started",
+    "failed": "Parser error",
+    "stopped_message": "Parser stopped"
+  },
+  "settings": {
+    "title": "STREAM DECK CONFIGURATION",
+    "bridge_ready": "PLUGIN BRIDGE: READY",
+    "transfer": "STREAM DECK TRANSFER",
+    "plugin_handles": "Handled by the installed Elgato plugin",
+    "shared_config": "Shared config: {path}",
+    "localappdata_unavailable": "LOCALAPPDATA is unavailable",
+    "threshold": "MATCH THRESHOLD, %",
+    "monitor": "MONITOR INDEX",
+    "save": "SAVE SETTINGS",
+    "saved": "SETTINGS SAVED"
+  },
+  "status": {
+    "region_saved": "CAPTURE AREA SAVED",
+    "calibration_updated": "CALIBRATION UPDATED"
+  },
+  "dialogs": {
+    "error_title": "Error",
+    "save_failed": "Could not save configuration: {error}",
+    "region_missing_title": "Capture area not selected",
+    "region_missing_text": "Select the area containing all four stratagem icons first.",
+    "success_title": "Success",
+    "settings_saved": "Settings saved successfully!"
+  },
+  "format": {
+    "threshold_summary": "THRESHOLD: {value:.3f} MIN"
+  }
+}

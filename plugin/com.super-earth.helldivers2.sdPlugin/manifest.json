@@ -1,0 +1,130 @@
+{
+  "$schema": "https://schemas.elgato.com/streamdeck/plugins/manifest.json",
+  "UUID": "com.super-earth.helldivers2",
+  "Name": "Helldivers 2 Stratagems",
+  "Description": "Displays four detected loadout stratagems and provides fixed Reinforce, Resupply, and Hellbomb actions.",
+  "Author": "Super Earth Engineering",
+  "Version": "0.6.2.0",
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "6.6"
+  },
+  "CodePath": "bin/helldivers-stratagems.exe",
+  "CodePathWin": "bin/helldivers-stratagems.exe",
+  "Icon": "imgs/plugin",
+  "Category": "Helldivers 2 Stratagems",
+  "CategoryIcon": "imgs/plugin",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Stratagem Slot 1",
+      "UUID": "com.super-earth.helldivers2.stratagem.slot1",
+      "Tooltip": "Executes the stratagem detected in loadout slot 1.",
+      "Icon": "imgs/slot",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/slot",
+          "ShowTitle": false
+        }
+      ]
+    },
+    {
+      "Name": "Stratagem Slot 2",
+      "UUID": "com.super-earth.helldivers2.stratagem.slot2",
+      "Tooltip": "Executes the stratagem detected in loadout slot 2.",
+      "Icon": "imgs/slot",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/slot",
+          "ShowTitle": false
+        }
+      ]
+    },
+    {
+      "Name": "Stratagem Slot 3",
+      "UUID": "com.super-earth.helldivers2.stratagem.slot3",
+      "Tooltip": "Executes the stratagem detected in loadout slot 3.",
+      "Icon": "imgs/slot",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/slot",
+          "ShowTitle": false
+        }
+      ]
+    },
+    {
+      "Name": "Stratagem Slot 4",
+      "UUID": "com.super-earth.helldivers2.stratagem.slot4",
+      "Tooltip": "Executes the stratagem detected in loadout slot 4.",
+      "Icon": "imgs/slot",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/slot",
+          "ShowTitle": false
+        }
+      ]
+    },
+    {
+      "Name": "Reinforce",
+      "UUID": "com.super-earth.helldivers2.stratagem.reinforce",
+      "Tooltip": "Calls Reinforce with Ctrl + W/S/D/A/W.",
+      "Icon": "imgs/reinforce",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/reinforce",
+          "ShowTitle": false
+        }
+      ]
+    },
+    {
+      "Name": "Resupply",
+      "UUID": "com.super-earth.helldivers2.stratagem.resupply",
+      "Tooltip": "Calls Resupply with Ctrl + S/S/W/D.",
+      "Icon": "imgs/resupply",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/resupply",
+          "ShowTitle": false
+        }
+      ]
+    },
+    {
+      "Name": "Hellbomb",
+      "UUID": "com.super-earth.helldivers2.stratagem.hellbomb",
+      "Tooltip": "Calls Hellbomb with Ctrl + S/W/A/S/W/D/S/W.",
+      "Icon": "imgs/hellbomb",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "imgs/hellbomb",
+          "ShowTitle": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "supply_stratagems": [
+    {
+      "id": "LIFT-850",
+      "name": "Jump Pack",
+      "code": ["Down", "Up", "Up", "Down", "Up"],
+      "arrows": ["↓", "↑", "↑", "↓", "↑"]
+    },
+    {
+      "id": "B-1",
+      "name": "Supply Pack",
+      "code": ["Down", "Left", "Down", "Up", "Up", "Down"],
+      "arrows": ["↓", "←", "↓", "↑", "↑", "↓"]
+    },
+    {
+      "id": "AX/LAS-5",
+      "name": "Guard Dog Rover",
+      "code": ["Down", "Up", "Left", "Up", "Right", "Right"],
+      "arrows": ["↓", "↑", "←", "↑", "→", "→"]
+    },
+    {
+      "id": "SH-20",
+      "name": "Ballistic Shield Backpack",
+      "code": ["Down", "Left", "Down", "Down", "Up", "Left"],
+      "arrows": ["↓", "←", "↓", "↓", "↑", "←"]
+    },
+    {
+      "id": "AX/AR-23",
+      "name": "Guard Dog",
+      "code": ["Down", "Up", "Left", "Up", "Right", "Down"],
+      "arrows": ["↓", "↑", "←", "↑", "→", "↓"]
+    },
+    {
+      "id": "MG-43",
+      "name": "Machine Gun",
+      "code": ["Down", "Left", "Down", "Up", "Right"],
+      "arrows": ["↓", "←", "↓", "↑", "→"]
+    },
+    {
+      "id": "APW-1",
+      "name": "Anti-Material Rifle",
+      "code": ["Down", "Left", "Right", "Up", "Down"],
+      "arrows": ["↓", "←", "→", "↑", "↓"]
+    },
+    {
+      "id": "M-105",
+      "name": "Stalwart",
+      "code": ["Down", "Left", "Down", "Up", "Up", "Left"],
+      "arrows": ["↓", "←", "↓", "↑", "↑", "←"]
+    },
+    {
+      "id": "EAT-17",
+      "name": "Expendable Anti-Tank",
+      "code": ["Down", "Down", "Left", "Up", "Right"],
+      "arrows": ["↓", "↓", "←", "↑", "→"]
+    },
+    {
+      "id": "EAT-700",
+      "name": "Expendable Napalm",
+      "code": ["Down", "Down", "Left", "Up", "Left"],
+      "arrows": ["↓", "↓", "←", "↑", "←"]
+    },
+    {
+      "id": "MLS-4X",
+      "name": "Commando",
+      "code": ["Down", "Left", "Up", "Down", "Right"],
+      "arrows": ["↓", "←", "↑", "↓", "→"]
+    },
+    {
+      "id": "GR-8",
+      "name": "Recoilless Rifle",
+      "code": ["Down", "Left", "Right", "Right", "Left"],
+      "arrows": ["↓", "←", "→", "→", "←"]
+    },
+    {
+      "id": "FLAM-40",
+      "name": "Flamethrower",
+      "code": ["Down", "Left", "Up", "Down", "Up"],
+      "arrows": ["↓", "←", "↑", "↓", "↑"]
+    },
+    {
+      "id": "AC-8",
+      "name": "Autocannon",
+      "code": ["Down", "Left", "Down", "Up", "Up", "Right"],
+      "arrows": ["↓", "←", "↓", "↑", "↑", "→"]
+    },
+    {
+      "id": "MG-206",
+      "name": "Heavy Machine Gun",
+      "code": ["Down", "Left", "Up", "Down", "Down"],
+      "arrows": ["↓", "←", "↑", "↓", "↓"]
+    },
+    {
+      "id": "RS-422",
+      "name": "Railgun",
+      "code": ["Down", "Right", "Left", "Down", "Up", "Left", "Right"],
+      "arrows": ["↓", "→", "←", "↓", "↑", "←", "→"]
+    },
+    {
+      "id": "FAF-14",
+      "name": "Spear Launcher",
+      "code": ["Down", "Down", "Up", "Down", "Down"],
+      "arrows": ["↓", "↓", "↑", "↓", "↓"]
+    },
+    {
+      "id": "GL-21",
+      "name": "Grenade Launcher",
+      "code": ["Down", "Left", "Up", "Left", "Down"],
+      "arrows": ["↓", "←", "↑", "←", "↓"]
+    },
+    {
+      "id": "LAS-98",
+      "name": "Laser Cannon",
+      "code": ["Down", "Left", "Down", "Up", "Left"],
+      "arrows": ["↓", "←", "↓", "↑", "←"]
+    },
+    {
+      "id": "ARC-3",
+      "name": "Arc Thrower",
+      "code": ["Down", "Right", "Down", "Up", "Left", "Left"],
+      "arrows": ["↓", "→", "↓", "↑", "←", "←"]
+    },
+    {
+      "id": "LAS-99",
+      "name": "Quasar Cannon",
+      "code": ["Down", "Down", "Up", "Left", "Right"],
+      "arrows": ["↓", "↓", "↑", "←", "→"]
+    },
+    {
+      "id": "EXO-45",
+      "name": "Patriot Exosuit",
+      "code": ["Left", "Down", "Right", "Up", "Left", "Down", "Down"],
+      "arrows": ["←", "↓", "→", "↑", "←", "↓", "↓"]
+    },
+    {
+      "id": "EXO-49",
+      "name": "Emancipator Exosuit",
+      "code": ["Left", "Down", "Right", "Up", "Left", "Down", "Up"],
+      "arrows": ["←", "↓", "→", "↑", "←", "↓", "↑"]
+    }
+  ],
+  "mission_stratagems": [
+    {
+      "id": null,
+      "name": "Reinforce",
+      "code": ["Up", "Down", "Right", "Left", "Up"],
+      "arrows": ["↑", "↓", "→", "←", "↑"]
+    },
+    {
+      "id": null,
+      "name": "SOS Beacon",
+      "code": ["Up", "Down", "Right", "Left"],
+      "arrows": ["↑", "↓", "→", "←"]
+    },
+    {
+      "id": null,
+      "name": "Resupply",
+      "code": ["Down", "Down", "Up", "Right"],
+      "arrows": ["↓", "↓", "↑", "→"]
+    },
+    {
+      "id": "NUX-223",
+      "name": "Hellbomb",
+      "code": ["Down", "Up", "Left", "Down", "Up", "Right", "Down", "Up"],
+      "arrows": ["↓", "↑", "←", "↓", "↑", "→", "↓", "↑"]
+    },
+    {
+      "id": null,
+      "name": "SSSD Delivery",
+      "code": ["Down", "Down", "Down", "Up", "Up"],
+      "arrows": ["↓", "↓", "↓", "↑", "↑"]
+    },
+    {
+      "id": null,
+      "name": "Seismic Probe",
+      "code": ["Up", "Up", "Left", "Right", "Down", "Down"],
+      "arrows": ["↑", "↑", "←", "→", "↓", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Upload Data",
+      "code": ["Left", "Right", "Up", "Up", "Up"],
+      "arrows": ["←", "→", "↑", "↑", "↑"]
+    },
+    {
+      "id": null,
+      "name": "Eagle Re-arm",
+      "code": ["Up", "Up", "Left", "Up", "Right"],
+      "arrows": ["↑", "↑", "←", "↑", "→"]
+    },
+    {
+      "id": null,
+      "name": "Illumination Flare",
+      "code": ["Right", "Right", "Left", "Left"],
+      "arrows": ["→", "→", "←", "←"]
+    },
+    {
+      "id": null,
+      "name": "SEAF Artillery",
+      "code": ["Right", "Up", "Up", "Down"],
+      "arrows": ["→", "↑", "↑", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Super Earth Flag",
+      "code": ["Down", "Up", "Down", "Up"],
+      "arrows": ["↓", "↑", "↓", "↑"]
+    }
+  ],
+  "defensive_stratagems": [
+    {
+      "id": "E/MG-101",
+      "name": "HMG Emplacement",
+      "code": ["Down", "Up", "Left", "Right", "Right", "Left"],
+      "arrows": ["↓", "↑", "←", "→", "→", "←"]
+    },
+    {
+      "id": "E/AT-12",
+      "name": "Anti-Tank Emplacement",
+      "code": ["Down", "Up", "Left", "Right", "Right", "Right"],
+      "arrows": ["↓", "↑", "←", "→", "→", "→"]
+    },
+    {
+      "id": "FX-12",
+      "name": "Shield Generator Relay",
+      "code": ["Down", "Down", "Left", "Right", "Left", "Right"],
+      "arrows": ["↓", "↓", "←", "→", "←", "→"]
+    },
+    {
+      "id": "A/ARC-3",
+      "name": "Tesla Tower",
+      "code": ["Down", "Up", "Right", "Up", "Left", "Right"],
+      "arrows": ["↓", "↑", "→", "↑", "←", "→"]
+    },
+    {
+      "id": "A/FLAM-40",
+      "name": "Flame Sentry",
+      "code": ["Down", "Up", "Right", "Down", "Up", "Up"],
+      "arrows": ["↓", "↑", "→", "↓", "↑", "↑"]
+    },
+    {
+      "id": "MD-6",
+      "name": "Anti-Personnel Minefield",
+      "code": ["Down", "Left", "Up", "Right"],
+      "arrows": ["↓", "←", "↑", "→"]
+    },
+    {
+      "id": "MD-14",
+      "name": "Incendiary Mines",
+      "code": ["Down", "Left", "Left", "Down"],
+      "arrows": ["↓", "←", "←", "↓"]
+    },
+    {
+      "id": "MD-17",
+      "name": "Anti-Tank Mines",
+      "code": ["Down", "Left", "Up", "Up"],
+      "arrows": ["↓", "←", "↑", "↑"]
+    },
+    {
+      "id": "A/MG-43",
+      "name": "Machine Sentry",
+      "code": ["Down", "Up", "Right", "Right", "Up"],
+      "arrows": ["↓", "↑", "→", "→", "↑"]
+    },
+    {
+      "id": "A/G-16",
+      "name": "Gatling Sentry",
+      "code": ["Down", "Up", "Right", "Left"],
+      "arrows": ["↓", "↑", "→", "←"]
+    },
+    {
+      "id": "A/M-12",
+      "name": "Mortar Sentry",
+      "code": ["Down", "Up", "Right", "Right", "Down"],
+      "arrows": ["↓", "↑", "→", "→", "↓"]
+    },
+    {
+      "id": "A/AC-8",
+      "name": "Autocannon Sentry",
+      "code": ["Down", "Up", "Right", "Up", "Left", "Up"],
+      "arrows": ["↓", "↑", "→", "↑", "←", "↑"]
+    },
+    {
+      "id": "A/MLS-4X",
+      "name": "Rocket Sentry",
+      "code": ["Down", "Up", "Right", "Right", "Left"],
+      "arrows": ["↓", "↑", "→", "→", "←"]
+    },
+    {
+      "id": "A/M-23",
+      "name": "EMS Sentry",
+      "code": ["Down", "Up", "Right", "Down", "Right"],
+      "arrows": ["↓", "↑", "→", "↓", "→"]
+    }
+  ],
+  "offensive_stratagems": [
+    {
+      "id": null,
+      "name": "Orbital Gatling Barrage",
+      "code": ["Right", "Down", "Left", "Up", "Up"],
+      "arrows": ["→", "↓", "←", "↑", "↑"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Airburst Strike",
+      "code": ["Right", "Right", "Right"],
+      "arrows": ["→", "→", "→"]
+    },
+    {
+      "id": null,
+      "name": "Orbital 120mm HE Barrage",
+      "code": ["Right", "Right", "Down", "Left", "Right", "Down"],
+      "arrows": ["→", "→", "↓", "←", "→", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Orbital 380mm HE Barrage",
+      "code": ["Right", "Down", "Up", "Up", "Left", "Down", "Down"],
+      "arrows": ["→", "↓", "↑", "↑", "←", "↓", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Walking Barrage",
+      "code": ["Right", "Down", "Right", "Down", "Right", "Down"],
+      "arrows": ["→", "↓", "→", "↓", "→", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Laser",
+      "code": ["Right", "Down", "Up", "Right", "Down"],
+      "arrows": ["→", "↓", "↑", "→", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Railcannon Strike",
+      "code": ["Right", "Up", "Down", "Down", "Right"],
+      "arrows": ["→", "↑", "↓", "↓", "→"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Precision Strike",
+      "code": ["Right", "Right", "Up"],
+      "arrows": ["→", "→", "↑"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Gas Strike",
+      "code": ["Right", "Right", "Down", "Right"],
+      "arrows": ["→", "→", "↓", "→"]
+    },
+    {
+      "id": null,
+      "name": "Orbital EMS Strike",
+      "code": ["Right", "Right", "Left", "Down"],
+      "arrows": ["→", "→", "←", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Orbital Smoke Strike",
+      "code": ["Right", "Right", "Down", "Up"],
+      "arrows": ["→", "→", "↓", "↑"]
+    },
+    {
+      "id": null,
+      "name": "Eagle Strafing Run",
+      "code": ["Up", "Right", "Right"],
+      "arrows": ["↑", "→", "→"]
+    },
+    {
+      "id": null,
+      "name": "Eagle Airstrike",
+      "code": ["Up", "Right", "Down", "Right"],
+      "arrows": ["↑", "→", "↓", "→"]
+    },
+    {
+      "id": null,
+      "name": "Eagle Cluster Bomb",
+      "code": ["Up", "Right", "Down", "Down", "Right"],
+      "arrows": ["↑", "→", "↓", "↓", "→"]
+    },
+    {
+      "id": null,
+      "name": "Eagle Napalm Airstrike",
+      "code": ["Up", "Right", "Down", "Up"],
+      "arrows": ["↑", "→", "↓", "↑"]
+    },
+    {
+      "id": null,
+      "name": "Eagle Smoke Strike",
+      "code": ["Up", "Right", "Up", "Down"],
+      "arrows": ["↑", "→", "↑", "↓"]
+    },
+    {
+      "id": null,
+      "name": "Eagle 110mm Rocket Pods",
+      "code": ["Up", "Right", "Up", "Left"],
+      "arrows": ["↑", "→", "↑", "←"]
+    },
+    {
+      "id": null,
+      "name": "Eagle 500kg Bomb",
+      "code": ["Up", "Right", "Down", "Down", "Down"],
+      "arrows": ["↑", "→", "↓", "↓", "↓"]
+    }
+  ]
+}

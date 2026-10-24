@@ -1,0 +1,12 @@
+__pycache__/
+.ruff_cache/
+*.py[cod]
+*.log
+build/
+dist/
+tmp/
+HelldiversStratagems/
+config.json
+plugin/com.super-earth.helldivers2.sdPlugin/bin/
+plugin/com.super-earth.helldivers2.sdPlugin/config.json
+plugin/com.super-earth.helldivers2.sdPlugin/stratagem_library/
